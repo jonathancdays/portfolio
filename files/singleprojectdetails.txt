@@ -1,0 +1,27 @@
+ <div class="col-lg-4">
+
+                    <div class="art-a art-card">
+                      <!-- table -->
+                      <div class="art-table p-15-15">
+                        <ul>
+                          <li>
+                            <h6>Order Date:</h6><span>24.12.2019</span>
+                          </li>
+                          <li>
+                            <h6>Final Date:</h6><span>12.03.2020</span>
+                          </li>
+                          <li>
+                            <h6>Status:</h6><span>Completed</span>
+                          </li>
+                          <li>
+                            <h6>Client:</h6><span>Envato Market</span>
+                          </li>
+                          <li>
+                            <h6>Location:</h6><span><a href="/https://goo.gl/maps/b4w13Zuk9iWCsLMX7" target="_blank">Ukraine, Lviv</a></span>
+                          </li>
+                        </ul>
+                      </div>
+                      <!-- table end -->
+                    </div>
+
+                  </div>
