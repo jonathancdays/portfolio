@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JelaniDays/portfolio.git"
+    "url": "git+https://github.com/jonathancdays/portfolio.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/JelaniDays/portfolio/issues"
+    "url": "https://github.com/jonathancdays/portfolio/issues"
   },
-  "homepage": "https://github.com/JelaniDays/portfolio#readme",
+  "homepage": "https://github.com/jonathancdays/portfolio#readme",
   "dependencies": {
     "ejs": "^3.1.6",
     "express": "^4.17.3",
