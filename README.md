@@ -13,7 +13,7 @@
 <br />
 <div align="center">
   <a href="https://www.jonathancdays.com/">
-    <img src="src/assets/logo.svg" alt="Logo" width="400" height="400">
+    <img src="img/face-1.jpg" alt="Image" width="200" height="200">
   </a>
 
   <h3 align="center">Jonathan Days Portfolio</h3>
@@ -40,8 +40,6 @@
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 ### Built With
 
