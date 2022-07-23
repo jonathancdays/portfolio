@@ -1,48 +1,69 @@
-JONATHAN DAYS SOFTWARE ENGINEER AND DESIGNER JonathanCDays@gmail.com - https://github.com/jonathancdays http://www.linkedin.com/in/johndays - https://www.jonathancdays.com/
-TECHNICAL SKILLS 
- 
-Languages: HTML/ CSS, JavaScript, MongoDB, Express, React, React.JS, Node, Node.JS
-Software: Git, Github, Heroku, Jira, Figma, Sketch, Adobe Creative Cloud
-Skills: CI / CD, Object-Oriented Design, Testing, and Debugging, Data Structures, Algorithms, Communication, Teamwork, Empathy
- 
- 
-PROJECTS 
-Veriscouts - Project- Live Site & Github Repo
-•	Utilized 3 JSX modules and 10 components to write HTML elements in JavaScript and convert them into React elements to implement a browser-independent DOM system. 
-•	Determined design and layout of a web application from High-Fidelity Mockup and executed using HTML, CSS, JavaScript, and React. JS.
-•	Enacted quality front-end architecture by employing React.JS best practices to create efficient UI elements.
+Jonathan Days
+jonathancdays@gmail.com
+Software Engineer & Designer
+Portfolio: jonathancdays
+github.com/jonathancdays
+linkedin.com/in/johndays
 
-Lokalyst - Project- Live Site & Github Repo
-•	Utilized 5+ modules and 10+ components in Next JS to reduce codebase size, optimize page speed, increase usability, and support serverless rendering for fast deployment.
-•	Integrated 10+ APIs to quickly implement existing functionality and reduce development time to increase the quality of user experience.
-•	Implemented Webpack for SPA(Single-Page-Application) configuration, improved disk caching, and faster refresh to reduce the file size by about 15% and increase speed by 25%.
-•	Created a robust user interface by harnessing 15+ CSS components within JavaScript files.
+SKILLS
+Languages HTML, CSS, JavaScript, MongoDB, Express, React, Node
+Tools Git, Github, RESTful API, HTTP, JSON, Jest, Adobe Creative Suite
+Skills Testing, Debugging, Data Structures, Algorithms, Web Design, Agile Methodologies
 
-WORK EXPERIENCE 
-Jan 2020 – Present - Freelance Software Engineer (Part-Time) - Self-Employed
-•	Creating full-stack web apps in languages such as JS, React, and Node. JS. 
-•	Producing, maintaining, and modifying websites and user interfaces with CMS, WordPress, and Netlify. 
-•	Creating tools that enhance the user’s website experience by referencing systems such as Material UI and Bootstrap.
+TECHNICAL EXPERIENCE
 
-Apr 2021 – Nov 2021 - Email Developer (Full-Time) - Sounds True 
-•	Utilized HTML, CSS, & JS expertise to ensure rendering consistency across 15+ desktop, mobile, and app-based clients. 
-•	Deployed over 36 cross-channel promotional and transactional campaigns in an enterprise-level marketing automation platform such as Klaviyo. 
-•	Conducted HTML parsing, A/B testing implementation, and performance monitoring for 5 databases.
+Freelance Software Engineer 01/2020—Present
+Self-Employed
+• Creating full-stack web apps in languages such as JavaScript, React, and NodeJS
+• Producing, maintaining, modifying websites, user interfaces, etc. with CMS, WordPress, and Netlify
+• Creating tools that enhance the user’s website experience by referencing systems such as Material UI and Bootstrap
 
-November 2020 – November 2021 - UX & UI Designer and Developer (Part-Time) - Veriscouts
-•	Through the team, a collaboration formed several brands and visual style guides with Figma to make the design process uniform across processes and cut over $7,000 in developmental costs. 
-•	Ensured UI Design System, implemented with React, were responsive, under fast-paced conditions, resulting in 8 weeks of product launch time reduced and over $3,000 saved. 
-•	Guaranteed responsive web design of 8+ web pages were cross-functional across the web and mobile apps by using React components resulting in both time and money saved by alleviating tech debt. 
+Email Developer 04/2021—11/2021
+Sounds True
+• Employed HTML, CSS, & JavaScript expertise to ensure responsive design across several desktop, mobile, and app-based clients
+• Performed A/B testing of e-mail campaigns with conversion rates increasing up to 15%
+• Conducted HTML parsing, A/B testing implementation, and performance monitoring for multiple databases
 
-November 2020 – February 2021 - UX & UI Designer and Developer (Contract) - Juix 
-•	Redesigned and developed the user interface of the website via High-Fidelity Mockups, with Figma, and HTML, CSS, & JS to drive average time spent on site, conversion rate, and interactions per visit by +20%. 
-•	Referenced product design to create a brand visual style guide that includes brand voice, logo, color, and typography guidelines that saved the company over $5,000 in contract hires.
-•	Created and organized over a dozen style guides, pattern libraries, and design systems by employing version control with Git for easier implementation thus cutting design budget costs by $7,000 and 20% time saved.
+UX & UI Designer and Developer 11/2020—11/2021
+Veriscouts
+• Through team collaboration, several brand, and visual style guides were formed with Figma to make the design pipeline uniform
+across development processes
+• Ensured UI Design System, implemented with the React library, was responsive, under fast-paced conditions, resulting in several
+weeks of product launch time reduced
+• Guaranteed responsive web design of 8+ web pages was responsive on desktop and mobile devices using the React library
+resulting in both time and money saved by alleviating tech debt
 
-August 2020 – October 2020 – Lokalyst - UX Developer (Contract)
-•	Rebranded company website that totals 60k+ views by using design tools such as Figma and Adobe Creative Suite to create Mockups and High-Fidelity Prototypes. 
-•	By conducting competitor analysis and A/B testing discovered the best site architecture to implement.
-•	Utilized market trends to develop a visually pleasing product using research and concepts.
-EDUCATION 
-August 2016 - December 2019  B.S. Multimedia Computer Graphics at Southeast Missouri State University 	                                                                       Accredited by the Association of Technology, Management, & Applied Engineering 
- 
+UX & UI Designer and Developer 11/2020—02/2021
+Juix
+• Redesigned and developed the user interface of the website via high-fidelity mock-ups, with Figma, HTML, CSS, & JavaScript to
+increase average time spent on site, conversion rate, and interactions per visit
+• Referenced product design to create a brand visual style guide that includes brand voice, logo, color, and typography guidelines
+that saved the company both time as well as money on redesign and development
+• Implemented design system and component library with CSS by employing version control with Git for easier implementation
+
+UX Developer 08/2020—10/2020
+Lokalyst
+• Refactored a React single-page application which increased page speed optimization by a few seconds, SEO performance, and
+reduced bounce rate by executing a prototype redesign made with Figma and Adobe Creative Suite
+• Conducted competitive analysis of 10+ competitors and managed A/B Testing to determine site architecture and design of
+content
+• Employed user interface design system best practices to complement user experience by creating a quality assured CI /CD
+pipeline with the version control software Git to reduce development time
+
+PROJECTS
+
+Veriscouts / Networking Site Live Site —Repo
+• Utilized 3 JSX modules and 10 components to write HTML elements in JavaScript and convert them into React elements to
+implement a browser-independent DOM system
+• Determined design and layout of a web application from High-Fidelity Mock-up and executed using HTML, CSS, JavaScript, and
+ReactJS
+
+Lokalyst / SEO Site Live Site —Repo
+• Troubleshoot 5+ modules and 10+ components in NextJS to reduce codebase size, optimize page speed, increase usability, and
+support server-less rendering for fast deployment
+• Implemented Webpack for SPA(Single-Page-Application) configuration, improved disk caching, and faster refresh to reduce the
+file size by about 15% and increase speed by 25%
+
+EDUCATION
+Bachelor of Science in Multimedia Computer Graphics 12/2019
+Southeast Missouri State University
